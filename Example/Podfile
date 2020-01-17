@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EAPicker_Example' do
+  pod 'EAPicker', :path => '../'
+
+  target 'EAPicker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
