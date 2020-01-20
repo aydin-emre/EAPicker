@@ -1,0 +1,6 @@
+framework module EAPicker {
+  umbrella header "EAPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

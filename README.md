@@ -1,6 +1,6 @@
 # EAPicker
 
-[![CI Status](https://img.shields.io/travis/emre-aydin-matriks/EAPicker.svg?style=flat)](https://travis-ci.org/emre-aydin-matriks/EAPicker)
+[![CI Status](https://img.shields.io/travis/aydin-emre/EAPicker.svg?style=flat)](https://travis-ci.org/aydin-emre/EAPicker)
 [![Version](https://img.shields.io/cocoapods/v/EAPicker.svg?style=flat)](https://cocoapods.org/pods/EAPicker)
 [![License](https://img.shields.io/cocoapods/l/EAPicker.svg?style=flat)](https://cocoapods.org/pods/EAPicker)
 [![Platform](https://img.shields.io/cocoapods/p/EAPicker.svg?style=flat)](https://cocoapods.org/pods/EAPicker)
@@ -22,7 +22,7 @@ pod 'EAPicker'
 
 ## Author
 
-emre-aydin-matriks, ea@ea.tc
+aydin-emre, www.emr.ee
 
 ## License
 

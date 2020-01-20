@@ -1,0 +1,16 @@
+PODS:
+  - EAPicker (0.1.0)
+
+DEPENDENCIES:
+  - EAPicker (from `../`)
+
+EXTERNAL SOURCES:
+  EAPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EAPicker: 748c02f70ed62e58f07425e492c743d8ad405fe4
+
+PODFILE CHECKSUM: d97847166925995508b4e4930b4e206d3d179201
+
+COCOAPODS: 1.9.0.beta.2

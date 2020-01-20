@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  EAPicker
 //
-//  Created by emre-aydin-matriks on 01/17/2020.
-//  Copyright (c) 2020 emre-aydin-matriks. All rights reserved.
+//  Created by Emre AYDIN on 01/17/2020.
+//  Copyright (c) 2020 Emre AYDIN. All rights reserved.
 //
 
 import UIKit
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    internal func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }
