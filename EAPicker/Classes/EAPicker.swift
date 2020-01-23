@@ -139,6 +139,7 @@ public class EAPicker: UIView {
         
         pickerView.translatesAutoresizingMaskIntoConstraints = false
         pickerView.centerXAnchor.constraint(equalTo: inputView.centerXAnchor).isActive = true
+        pickerView.centerYAnchor.constraint(equalTo: inputView.centerYAnchor).isActive = true
         textField.inputView = inputView
         
         pickerView.delegate = self

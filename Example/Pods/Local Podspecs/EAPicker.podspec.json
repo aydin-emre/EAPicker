@@ -1,6 +1,6 @@
 {
   "name": "EAPicker",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "EAPicker is a picker view.",
   "description": "EAPicker is a picker view that you can customize.",
   "homepage": "https://github.com/aydin-emre/EAPicker",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/aydin-emre/EAPicker.git",
-    "tag": "0.1.0"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "10.0"
