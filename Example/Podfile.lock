@@ -1,5 +1,5 @@
 PODS:
-  - EAPicker (0.1.2)
+  - EAPicker (0.1.3)
 
 DEPENDENCIES:
   - EAPicker (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  EAPicker: 5e815b47ba6cb6aea593bd27f788787d1c5bd788
+  EAPicker: e1bc1e895d4984807ee9ada8804024b6d9eb03e8
 
 PODFILE CHECKSUM: d97847166925995508b4e4930b4e206d3d179201
 
